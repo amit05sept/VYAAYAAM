@@ -9,10 +9,14 @@
 **click on the workout list in left side to reposition your map to that workout position**
 
 
-**It use some bwoser API**    
+**It uses some bwoser APIs**    
 - localStorage
 - geoLocation
 - setTimeOut
 - location
+
+**It uses Leaflet**  
+- an open-source JavaScript library for mobile-friendly interactive maps  
+
 
 **This project implements the _OOPS_ concepts in JavaScript**

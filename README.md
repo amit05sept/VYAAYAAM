@@ -1,5 +1,6 @@
 **Hello World !!!**  
-- This is **VYAAYAAM** web App  
+- This is **VYAAYAAM** web App
+- Hosted at https://vyaayaam.netlify.app/
 - It helps you _maintain a record_ of your daily Exercise Routines  
 - marks the on the _Google Map_  
 - This also stores the Routines even if you close the browser.  

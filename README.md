@@ -9,3 +9,10 @@
 **click on the workout list in left side to reposition your map to that workout position**
 
 
+**It use some bwoser API**    
+- localStorage
+- geoLocation
+- setTimeOut
+- location
+
+**This project implements the _OOPS_ concepts in JavaScript**
